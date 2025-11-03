@@ -131,8 +131,7 @@ A bank loses $2M annually to fraud. How can we detect fraudulent transactions in
 ## 📫 Connect With Me
 
 **GitHub:** [@M20Jay](https://github.com/M20Jay)  
-**LinkedIn:** [www.linkedin.com/in/
-martin-james-nganga]  
+**LinkedIn:** [www.linkedin.com/in/martin-james-nganga]  
 **Email:** [ngangam93@gmail.com]
 
 ---
