@@ -1,85 +1,138 @@
-🚀 Data Science Portfolio
-👋 About Me
-Senior Data Scientist & Digital Transformation Leader with 10+ years of experience in advanced analytics, machine learning, and AI solutions. Specializing in healthcare AI, digital transformation, and sustainable development solutions.
-🔬 Featured Projects
-🏥 Insurance Premium Prediction
+# Data Science Portfolio
+## Martin James
 
-Accuracy: 95.25% prediction accuracy
-Tech Stack: Python, scikit-learn, pandas
-Features: Advanced regression modeling, feature engineering, model optimization
-File: Copy_of_INSURANCE_PREMIUM_PREDICTION.ipynb
+Welcome to my data science portfolio showcasing analytics and machine learning projects focused on solving real-world business problems.
 
-📊 Customer Churn Analysis
+---
 
-Methodology: Advanced ML modeling with ABT (Analytical Base Table) approach
-Focus: Predictive analytics for customer retention
-File: Customer-Churn-Prediction-ABT-Analysis.ipynb
+## 🔬 Featured Projects
 
-💳 Credit Risk Assessment
+### 🏥 Insurance Premium Prediction
+**Accuracy:** 95.25% prediction accuracy  
+**Tech Stack:** Python, scikit-learn, pandas  
+**Features:** Advanced regression modeling, feature engineering, model optimization  
+**File:** Copy_of_INSURANCE_PREMIUM_PREDICTION.ipynb  
+**Links:** [📓 Open in Colab](-COLAB-LINK-HERE)
 
-Scope: Comprehensive data preprocessing and risk modeling
-Application: Financial loan analysis and decision support
-File: Credit_Prediction.ipynb, Loan_Data_Analysis.ipynb
+---
 
-⚡ Energy Efficiency Analysis
+### 📊 Customer Churn Analysis
+**Methodology:** Advanced ML modeling with ABT (Analytical Base Table) approach  
+**Focus:** Predictive analytics for customer retention  
+**File:** Customer-Churn-Prediction-ABT-Analysis.ipynb  
+**Links:** [📓 Open in Colab](-COLAB-LINK-HERE)
 
-Domain: HVAC system optimization using machine learning
-Impact: Sustainable energy consumption insights
-File: Energy-Consumption-Analysis-HVAC.ipynb
+---
 
-🎯 ML Classification Suite
+### 💳 Credit Card Fraud Detection Using Predictive Analytics
+```notebook-python
+Credit Card Fraud Detection Using Predictive Analytics
+============================================================================
+Business Problem:
+A bank loses $2M annually to fraud. How can we detect fraudulent transactions in real-time?
+```
 
-Algorithms: K-Nearest Neighbors, Multi-algorithm comparison
-Workflow: Complete ML pipeline from data preprocessing to evaluation
-Files: KNN-Classification-Analysis.ipynb, ML-Classification-Comparison-Iris.ipynb
+**Accuracy:** 85-90% fraud detection rate (vs. current 60-70%)  
+**Tech Stack:** Python, pandas, scikit-learn, Random Forest, XGBoost, SMOTE  
+**Key Results:**
+- Severe class imbalance handling (598.8:1 ratio)
+- Real-time detection capability (<2 seconds)
+- Reduced false positives from 15-20% to 3-5%
+- Projected annual savings: $1.2-1.5M
 
-📈 Business Analytics
+**Features:** ABT design, EDA with 283K+ transactions, feature scaling, stratified sampling  
+**File:** Credit_Card_Fraud_Detection_Using_Predictive_Analytics.ipynb  
+**Links:** [📓 Open in Colab](https://colab.research.google.com/drive/1jVZy_re8Fr6RTBcRkTO_gyeOzY0dtXbX?usp=sharing) | [📊 Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-Focus: Sales analysis, regression modeling, and business intelligence
-Applications: Unit cost analysis, profit optimization
-Files: Business_Sales_Analysis_Assignment.ipynb, BUSI_650_Class_Activity_3_Regression_Analysis.ipynb
+---
 
-🛠️ Technical Skills
-Programming Languages:
+### 💳 Credit Risk Assessment
+**Scope:** Comprehensive data preprocessing and risk modeling  
+**Application:** Financial loan analysis and decision support  
+**Files:** Credit_Prediction.ipynb, Loan_Data_Analysis.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
 
-Python (Advanced)
-R (Intermediate)
-SQL (Advanced)
+---
 
-Machine Learning & AI:
+### ⚡ Energy Efficiency Analysis
+**Domain:** HVAC system optimization using machine learning  
+**Impact:** Sustainable energy consumption insights  
+**File:** Energy-Consumption-Analysis-HVAC.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
 
-scikit-learn
-TensorFlow
-PyTorch
-Statistical Modeling
-Deep Learning
+---
 
-Data Analysis & Visualization:
+### 🎯 ML Classification Suite
+**Algorithms:** K-Nearest Neighbors, Multi-algorithm comparison  
+**Workflow:** Complete ML pipeline from data preprocessing to evaluation  
+**Files:** KNN-Classification-Analysis.ipynb, ML-Classification-Comparison-Iris.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
 
-Pandas, NumPy
-Matplotlib, Seaborn
-Plotly
-Power BI, Tableau
+---
 
-Tools & Platforms:
+### 📈 Business Analytics
+**Focus:** Sales analysis, regression modeling, and business intelligence  
+**Applications:** Unit cost analysis, profit optimization  
+**Files:** Business_Sales_Analysis_Assignment.ipynb, BUSI_650_Class_Activity_3_Regression_Analysis.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
 
-Jupyter Notebooks
-Git/GitHub
-Docker
-Cloud Platforms (AWS, Azure)
+---
 
-📊 Portfolio Highlights
+## 🛠️ Technical Skills
 
-10+ Complete ML Projects with production-ready code
-95.25% Model Accuracy achieved in insurance prediction
-Healthcare AI Specialization with real-world applications
-End-to-end Workflows from data collection to deployment
-Comprehensive Documentation for all projects
+**Programming Languages:**
+- Python (Advanced)
+- R (Intermediate)
+- SQL (Advanced)
 
-🎯 Industry Experience
+**Machine Learning & AI:**
+- scikit-learn
+- TensorFlow
+- PyTorch
+- Statistical Modeling
+- Deep Learning
 
-Healthcare AI - Digital transformation solutions
-Financial Services - Risk modeling and credit analysis
-Energy Sector - Efficiency optimization and sustainability
-Insurance - Premium prediction and risk assessment
-Business Intelligence - Sales analytics and profit optimization
+**Data Analysis & Visualization:**
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Plotly
+- Power BI, Tableau
+
+**Tools & Platforms:**
+- Jupyter Notebooks
+- Git/GitHub
+- Docker
+- Cloud Platforms (AWS, Azure)
+
+---
+
+## 📊 Portfolio Highlights
+
+- **11+ Complete ML Projects** with production-ready code
+- **95.25% Model Accuracy** achieved in insurance prediction
+- **Healthcare AI Specialization** with real-world applications
+- **End-to-end Workflows** from data collection to deployment
+- **Comprehensive Documentation** for all projects
+- **Real-time Systems** with fraud detection capability
+
+---
+
+## 🎯 Industry Experience
+
+- **Healthcare AI** - Digital transformation solutions
+- **Financial Services** - Risk modeling, fraud detection, and credit analysis
+- **Energy Sector** - Efficiency optimization and sustainability
+- **Insurance** - Premium prediction and risk assessment
+- **Business Intelligence** - Sales analytics and profit optimization
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:** [@M20Jay](https://github.com/M20Jay)  
+**LinkedIn:** [www.linkedin.com/in/martin-james-nganga]  
+**Email:** [ngangam93@gmail.com]
+
+---
+
+*Portfolio last updated: November 2025*
