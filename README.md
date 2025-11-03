@@ -7,23 +7,6 @@ Welcome to my data science portfolio showcasing analytics and machine learning p
 
 ## 🔬 Featured Projects
 
-### 🏥 Insurance Premium Prediction
-**Accuracy:** 95.25% prediction accuracy  
-**Tech Stack:** Python, scikit-learn, pandas  
-**Features:** Advanced regression modeling, feature engineering, model optimization  
-**File:** Copy_of_INSURANCE_PREMIUM_PREDICTION.ipynb  
-**Links:** [📓 Open in Colab](-COLAB-LINK-HERE)
-
----
-
-### 📊 Customer Churn Analysis
-**Methodology:** Advanced ML modeling with ABT (Analytical Base Table) approach  
-**Focus:** Predictive analytics for customer retention  
-**File:** Customer-Churn-Prediction-ABT-Analysis.ipynb  
-**Links:** [📓 Open in Colab](-COLAB-LINK-HERE)
-
----
-
 ### 💳 Credit Card Fraud Detection Using Predictive Analytics
 ```notebook-python
 Credit Card Fraud Detection Using Predictive Analytics
@@ -42,7 +25,25 @@ A bank loses $2M annually to fraud. How can we detect fraudulent transactions in
 
 **Features:** ABT design, EDA with 283K+ transactions, feature scaling, stratified sampling  
 **File:** Credit_Card_Fraud_Detection_Using_Predictive_Analytics.ipynb  
+**Date:** November 2025  
 **Links:** [📓 Open in Colab](https://colab.research.google.com/drive/1jVZy_re8Fr6RTBcRkTO_gyeOzY0dtXbX?usp=sharing) | [📊 Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+---
+
+### 🏥 Insurance Premium Prediction
+**Accuracy:** 95.25% prediction accuracy  
+**Tech Stack:** Python, scikit-learn, pandas  
+**Features:** Advanced regression modeling, feature engineering, model optimization  
+**File:** Copy_of_INSURANCE_PREMIUM_PREDICTION.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
+
+---
+
+### 📊 Customer Churn Analysis
+**Methodology:** Advanced ML modeling with ABT (Analytical Base Table) approach  
+**Focus:** Predictive analytics for customer retention  
+**File:** Customer-Churn-Prediction-ABT-Analysis.ipynb  
+**Links:** [📓 Open in Colab](YOUR-COLAB-LINK-HERE)
 
 ---
 
@@ -130,7 +131,8 @@ A bank loses $2M annually to fraud. How can we detect fraudulent transactions in
 ## 📫 Connect With Me
 
 **GitHub:** [@M20Jay](https://github.com/M20Jay)  
-**LinkedIn:** [www.linkedin.com/in/martin-james-nganga]  
+**LinkedIn:** [www.linkedin.com/in/
+martin-james-nganga]  
 **Email:** [ngangam93@gmail.com]
 
 ---
