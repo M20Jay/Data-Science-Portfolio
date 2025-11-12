@@ -7,6 +7,27 @@ Welcome to my data science portfolio showcasing analytics and machine learning p
 
 ## 🔬 Featured Projects
 
+🌳 Decision Tree & Random Forest - Franchise Profitability Analysis
+
+**Methodology:** Comparative analysis of Decision Tree and Random Forest regression models  
+**Tech Stack:** Python, scikit-learn, pandas, matplotlib, seaborn  
+**Focus:** Predicting franchise net profit and optimizing model performance  
+
+**Key Results:**
+- Decision Tree: 88.15% accuracy (R²=0.8815, RMSE=$203.5K)
+- Random Forest: 79.42% accuracy (R²=0.7942, RMSE=$268.2K)
+- Feature Importance: Business Type (54.9%), Counter Sales (23.2%), Drive-through Sales (21.4%)
+- Hyperparameter Tuning: Optimized n_estimators (100 trees) and max_features (sqrt)
+- Profit Forecast: $480K-$713K prediction range for new franchise
+
+**Techniques:** Decision Tree Regression, Random Forest Ensemble, Hyperparameter Tuning, Root Node Simulation, Parameter Sensitivity Analysis, Feature Importance, Cross-Validation  
+
+**File:** Decision_Tree_Random_Forest_Franchise_Analysis.ipynb  
+**Date:** November 2025  
+**Links:** [📓 Open in Colab](https://colab.research.google.com/drive/1K3ZRGrj5VDJrdI97TkeXeduRSXeqqP5H?usp=sharing) | [📄 Full Report](LINK-TO-YOUR-PDF)
+
+============================================================================
+
 ### 💳 Credit Card Fraud Detection Using Predictive Analytics
 ```notebook-python
 Credit Card Fraud Detection Using Predictive Analytics
